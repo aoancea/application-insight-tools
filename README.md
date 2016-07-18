@@ -12,7 +12,7 @@ A list of application insight tools and tricks which watch for APM, Metrics, Log
  * They also have a free light-weight tool that can be installed on dev machines http://www.prefix.io/
 
 
-## Performance tricks
+## Performance tips & tricks
 ### .NET
 
 * https://blog.jetbrains.com/dotnet/2014/07/17/unusual-ways-of-boosting-up-app-performance-strings/
