@@ -1,6 +1,8 @@
 # application-insight-tools
 
-A list of application insight tools which watch for APM, Metrics, Logs, Errors
+A list of application insight tools and tricks which watch for APM, Metrics, Logs, Errors and boosting up the performance
+
+## Monitoring tools
 
 #### AppData
  * Link: http://www.appdata.com/
